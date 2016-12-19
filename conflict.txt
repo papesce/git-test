@@ -1,3 +1,7 @@
 Esto va a estar peleado
 
 papesce write this new line
+
+conflicto solucionado
+
+conflict1
