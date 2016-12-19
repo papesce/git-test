@@ -7,3 +7,8 @@ conflicto solucionado
 conflict1
 
 I hope no more conflicts !
+
+
+
+una linea mas conflicitva
+
