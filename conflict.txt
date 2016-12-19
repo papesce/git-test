@@ -1,3 +1,3 @@
 Esto va a estar peleado
 
-conflicto solucionado
+conflict1
