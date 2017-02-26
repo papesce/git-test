@@ -8,6 +8,8 @@ conflict1
 
 I hope no more conflicts !
 
+my user add this line
+
 peleador
 
 una linea mas conflicitva
